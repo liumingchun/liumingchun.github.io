@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>诸葛梦宇的博客</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://liumingchun.com/"/>
+  <updated>2021-06-14T12:38:38.912Z</updated>
+  <id>https://liumingchun.com/</id>
+  
+  <author>
+    <name>诸葛梦宇</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>学什么及怎么学？</title>
+    <link href="https://liumingchun.com/2021/06/14/what-is-learning/"/>
+    <id>https://liumingchun.com/2021/06/14/what-is-learning/</id>
+    <published>2021-06-13T20:32:37.000Z</published>
+    <updated>2021-06-14T12:38:38.912Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;关注公众号【持续学习不停息】，心理学考研知识一手掌握！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;一直以来，学习这个话题都是经久不衰的，不管出于什么样的原因，学习这个事情是没有错的，但关键在于我们要学什么以及我们怎么学。&lt;/p&gt;
+&lt;h3
+        
+      
+    
+    </summary>
+    
+      <category term="学习" scheme="https://liumingchun.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="思考 学习" scheme="https://liumingchun.com/tags/%E6%80%9D%E8%80%83-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+</feed>
